@@ -1,0 +1,59 @@
+/*
+    Leonardo A. Carrilho 
+    18/04/2017
+*/
+
+/* RESET */
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: helvetica, sans-serif;
+    font-size: 14px;
+}
+
+body{
+    font-family: helvetica, sans-serif;
+    background-color: #f2f2f2;
+}
+
+input{
+    border-color: #fff;
+    border-width: 2px;
+    border-style: solid;
+    font-size: 180%;
+}
+
+.header{
+    background-color: #ccc;
+    height: 150px;
+    border-bottom-color: #fff;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    
+}
+
+.header__logo{
+    
+}
+
+.header__nav{
+    
+}
+
+.main{
+    
+}
+
+.main__h1{
+    font-size: 200%;
+    text-align: center;
+}
+
+.main__h2{
+    font-size: 180%;
+    text-align: center;
+}
+
